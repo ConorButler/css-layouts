@@ -1,0 +1,15 @@
+body {
+    height: 100vh;
+    display: grid;
+    grid-template-rows: 100px 40px 1150px;
+}
+
+header {
+    display: grid;
+    grid-template-columns: 40fr 1fr;
+    align-items: center;
+}
+
+main {
+    height: 100%;
+}
