@@ -6,10 +6,16 @@ body {
 
 header {
     display: grid;
-    grid-template-columns: 40fr 1fr;
+    grid-template-columns: 1fr auto;
     align-items: center;
 }
 
 main {
     height: 100%;
+}
+
+footer {
+    display: grid;
+    grid-template-columns:  1fr auto;
+    align-items: center;
 }
