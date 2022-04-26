@@ -1,7 +1,7 @@
 body {
     height: 100vh;
     display: grid;
-    grid-template-rows: 100px 40px 1150px;
+    grid-template-rows: auto auto 1fr auto;
 }
 
 header {
